@@ -1,4 +1,4 @@
-name: CustomJoinMessage
+name: Lapis-CustomJoinMessage
 version: '${version}'
 main: mc506lw.cjm.CustomJoinMessage
 api-version: '1.16'
@@ -16,7 +16,7 @@ commands:
     usage: /setquit [set|remove|help] [player] [message]
     permission: cjm.quit
   cjm:
-    description: CustomJoinMessage management commands | CustomJoinMessage管理命令
+    description: Lapis-CustomJoinMessage management commands | Lapis-CustomJoinMessage管理命令
     usage: /cjm [reload|mode|help|permission]
     permission: customjoinmessage.admin
 permissions:

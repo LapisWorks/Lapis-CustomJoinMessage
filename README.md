@@ -1,7 +1,7 @@
-# CustomJoinMessage
+# Lapis-CustomJoinMessage
 
-[![Build Status](https://github.com/mc506lw/CustomJoinMessage/workflows/Build%20and%20Release/badge.svg)](https://github.com/mc506lw/CustomJoinMessage/actions)
-[![Pull Request Check](https://github.com/mc506lw/CustomJoinMessage/workflows/Pull%20Request%20Check/badge.svg)](https://github.com/mc506lw/CustomJoinMessage/actions)
+[![Build Status](https://github.com/LapisWorks/Lapis-CustomJoinMessage/workflows/Build%20and%20Release/badge.svg)](https://github.com/LapisWorks/Lapis-CustomJoinMessage/actions)
+[![Pull Request Check](https://github.com/LapisWorks/Lapis-CustomJoinMessage/workflows/Pull%20Request%20Check/badge.svg)](https://github.com/LapisWorks/Lapis-CustomJoinMessage/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/java-17+-orange.svg)](https://openjdk.java.net/)
 [![Spigot Version](https://img.shields.io/badge/spigot-1.16.5+-green.svg)](https://www.spigotmc.org/)
@@ -27,7 +27,7 @@
 
 ## 安装方法
 
-1. 下载最新版本的CustomJoinMessage.jar文件
+1. 下载最新版本的Lapis-CustomJoinMessage.jar文件
 2. 将文件放入服务器的`plugins`目录
 3. 重启服务器或使用`/reload`命令加载插件
 4. 插件将自动生成配置文件和数据库
@@ -302,7 +302,7 @@ predefined-permissions:
 
 #### 依赖注入实现
 
-所有工具类现在通过CustomJoinMessage主类初始化，并通过依赖注入传递给需要它们的类，使插件更加模块化，便于维护和扩展。
+所有工具类现在通过Lapis-CustomJoinMessage主类初始化，并通过依赖注入传递给需要它们的类，使插件更加模块化，便于维护和扩展。
 
 ## 故障排除
 

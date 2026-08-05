@@ -84,7 +84,7 @@ messages:
   permission-admin-info: "&#89b4fa管理员权限: &#cdd6f4%status%"
 
   # Help messages | 帮助消息
-  help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== CustomJoinMessage 帮助 ==="
+  help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== Lapis-CustomJoinMessage 帮助 ==="
   help-current-permission: "&#89b4fa当前权限级别: &#cdd6f4%level%"
   help-mode-info: "&#89b4fa/setjoin §7- 查看当前模式"
   help-prefix-usage: "&#89b4fa/setjoin prefix <前缀> §7- 设置加入消息前缀"
@@ -111,7 +111,7 @@ messages:
   quit-help-admin-remove: "&#89b4fa/setquit <玩家> remove §7- 为其他玩家移除退出消息"
   
   # Admin help messages | 管理员帮助消息
-  admin-help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== CustomJoinMessage 管理命令帮助 ==="
+  admin-help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== Lapis-CustomJoinMessage 管理命令帮助 ==="
   admin-help-reload: "&#89b4fa/cjm reload §7- 重载配置文件"
   admin-help-permission: "&#89b4fa/cjm permission check <玩家> §7- 检查玩家的权限级别"
   admin-help-group: "&#89b4fa/cjm group list §7- 列出所有自定义权限组"
@@ -124,7 +124,7 @@ messages:
   admin-help-deleteplayer: "&#89b4fa/cjm deleteplayer <uuid> §7- 通过UUID删除玩家数据"
   
   # Group command messages | 权限组命令消息
-  group-help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== CustomJoinMessage 权限组命令帮助 ==="
+  group-help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== Lapis-CustomJoinMessage 权限组命令帮助 ==="
   group-help-list: "&#89b4fa/cjm group list §7- 列出所有自定义权限组"
   group-help-info: "&#89b4fa/cjm group info <组名> §7- 查看特定权限组的详细信息"
   group-help-help: "&#89b4fa/cjm group help §7- 显示此帮助信息"
@@ -151,7 +151,7 @@ messages:
   group-info-usage: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f38ba8用法错误。使用 &#6c7086/cjm group info <组名> &#f38ba8查看权限组信息。"
   
   # Permission help messages | 权限帮助消息
-  permission-help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== CustomJoinMessage 权限命令帮助 ==="
+  permission-help-header: "&#b2dfd5[&#9fd4d0C&#8bcacaJ&#78bfc5M&#64b4bf] &#f9e2af=== Lapis-CustomJoinMessage 权限命令帮助 ==="
   permission-help-check: "&#89b4fa/cjm permission check <玩家> §7- 检查玩家的权限级别"
   permission-help-help: "&#89b4fa/cjm permission help §7- 显示此帮助信息"
   permission-levels-header: "&#89b4fa权限级别说明:"

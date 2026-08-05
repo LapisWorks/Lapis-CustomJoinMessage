@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢您对 CustomJoinMessage 项目的关注！我们欢迎任何形式的贡献，包括但不限于：
+感谢您对 Lapis-CustomJoinMessage 项目的关注！我们欢迎任何形式的贡献，包括但不限于：
 
 - 报告错误
 - 提出新功能建议
@@ -18,8 +18,8 @@
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/mc506lw/CustomJoinMessage.git
-cd CustomJoinMessage
+git clone https://github.com/LapisWorks/Lapis-CustomJoinMessage.git
+cd Lapis-CustomJoinMessage
 ```
 
 ### 构建项目
